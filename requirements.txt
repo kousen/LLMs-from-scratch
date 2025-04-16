@@ -7,3 +7,9 @@ tqdm >= 4.66.1             # ch05; ch07
 numpy >= 1.26, < 2.1       # dependency of several other libraries like torch and pandas
 pandas >= 2.2.1            # ch06
 psutil >= 5.9.5            # ch07; already installed automatically as dependency of torch
+
+regex~=2024.11.6
+requests~=2.32.3
+nbformat~=5.10.4
+packaging~=24.2
+gutenbergpy~=0.3.5
